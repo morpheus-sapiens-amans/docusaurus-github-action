@@ -5,9 +5,9 @@ LABEL "com.github.actions.description"="Builds your Docusaurus docs and deploys 
 LABEL "com.github.actions.icon"="book-open"
 LABEL "com.github.actions.color"="blue-dark"
 
-LABEL "repository"="https://github.com/clay/docusaurus-github-action"
-LABEL "homepage"="https://github.com/clay/docusaurus-github-action"
-LABEL "maintainer"="Jon Winton <@jonwinton>"
+LABEL "repository"="https://github.com/paularmstrong/docusaurus-github-action"
+LABEL "homepage"="https://github.com/paularmstrong/docusaurus-github-action"
+LABEL "maintainer"="Paul Armstrong <@paularmstrong>"
 
 
 RUN apk update && \
