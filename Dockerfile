@@ -5,9 +5,9 @@ LABEL "com.github.actions.description"="Handles all the documentation action."
 LABEL "com.github.actions.icon"="book-open"
 LABEL "com.github.actions.color"="blue-dark"
 
-LABEL "repository"="https://github.com/paularmstrong/docusaurus-github-action"
-LABEL "homepage"="https://github.com/paularmstrong/docusaurus-github-action"
-LABEL "maintainer"="Paul Armstrong <@paularmstrong>"
+LABEL "repository"="https://github.com/morpheus-sapiens-amans/docusaurus-github-action"
+LABEL "homepage"="https://github.com/morpheus-sapiens-amans/docusaurus-github-action"
+LABEL "maintainer"="Laércio Avelino <@morpheus-sapiens-amans>"
 
 
 RUN apk update && \
